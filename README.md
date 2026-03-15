@@ -230,7 +230,7 @@ Las interacciones y capacidades de los agentes de IA mediente las interacciones 
 
 ### 🎯 Diagrama
 
-![PULSO — Arquitectura de la solución](./PULSO.svg)
+![Img — Arquitectura de la solución](./Img.svg)
 
 
 ---
