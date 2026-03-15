@@ -190,7 +190,7 @@ Al estar echo en docker-compose es reproducible y se puede desplegar tanto en Cl
 
 La solución actúa en tres frentes simultáneos. Le entrega al paciente transparencia y comunicación proactiva durante toda su visita. Le entrega al personal operativo una herramienta de toma de decisiones que anticipa problemas antes de que ocurran. Y le entrega a la dirección indicadores en vivo para medir el desempeño real de cada clínica.
 
-Lo que distingue a PULSO de un sistema de turnos convencional es su capacidad de reacción autónoma. Cuando detecta saturación en un módulo, no solo alerta propone una solución y la ejecuta con aprobación de un clic. Cuando predice que un paciente no se presentará, activa la lista de espera antes de que el tiempo muerto ocurra. Cuando un paciente espera, convierte esa espera en una experiencia de salud personalizada.
+Lo que distingue a nuestra propuesta de un sistema de turnos convencional es su capacidad de reacción autónoma. Cuando detecta saturación en un módulo, no solo alerta propone una solución y la ejecuta con aprobación de un clic. Cuando predice que un paciente no se presentará, activa la lista de espera antes de que el tiempo muerto ocurra. Cuando un paciente espera, convierte esa espera en una experiencia de salud personalizada.
 
 Todo esto opera sobre infraestructura desplegable tanto en la nube como en sitio, garantizando que Salud Digna mantenga gobernanza total sobre los datos clínicos de sus pacientes.
 
