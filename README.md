@@ -22,7 +22,7 @@ La solución esperada es un copiloto en tiempo real integrado al ecosistema (rec
 ---
 
 
-### 🩺 Problemática que Resuelve
+### 🩺 Problemática a Resuelver
 
 La experiencia del paciente en clínica actualmente está **fragmentada** y llena de "puntos ciegos":
 
