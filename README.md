@@ -1,4 +1,4 @@
-# Talent Land Mexico 2026 - Genius Arena - Salud Digna Atención 360° en Tiempo Real - Talet Hackathon 2026
+# Talent Land Mexico 2026 - Genius Arena - Salud Digna Atención 360° en Tiempo Real - Talent Hackathon 2026
 
 
 ---
@@ -10,11 +10,11 @@
 ---
 
 
-### 🎯 Introduccion
+### 🎯 Introducción
 
 Salud Digna es una red nacional de diagnóstico y atención preventiva que ha crecido rápidamente, su escala la posiciona como actor clave para estandarizar flujos operativos, datos clínicos y la experiencia del paciente a nivel nacional.
 
-Hoy la atención está fragmentada. Comunicaciones internas lentas, sistemas aislados, recepción saturada, esperas inciertas y nulos mecanismos predictivos que den visibilidad al paciente sobre su trayecto y tiempos. Eso genera ineficiencia operativa, pérdida de capacidad instalada y una percepción negativa del servicio pese a la cobertura amplia.
+Hoy la atención está fragmentada. Comunicaciones internas lentas, sistemas aislados, recepción saturada, esperas inciertas y nulos mecanismos predictivos que den visibilidad al paciente sobre su trayecto y tiempos. Eso genera in-eficiencia operativa, pérdida de capacidad instalada y una percepción negativa del servicio pese a la cobertura amplia.
 
 La solución esperada es un copiloto en tiempo real integrado al ecosistema (recepción, áreas clínicas y agendamiento) que entregue tracking transparente al paciente, predicción dinámica de tiempos, notificaciones ante cambios, gestión inteligente de capacidad y aprovechamiento de tiempos muertos para educación o preparación. Debe ser interoperable, de fácil adopción y demostrar KPIs claros (reducción de espera, aumento de throughput y mejora en satisfacción).
 
@@ -110,19 +110,19 @@ Para este Track, el entregable será un Prototipo funcional, donde se busca que 
 ---
 
 
-### 🎯 Introduccion de la Propuesta
+### 🎯 Introducción de la Propuesta
 
 Así como Uber no solo te muestra dónde está el conductor sino que optimiza la ruta en tiempo real. Nosotros no solo le mostramos al paciente en qué etapa está, la IA reordena su trayecto si detecta saturación.
 
-Se propone una Solucion Vanguardista, Versatil, Eficiente, y Confiable. Una equilibrio entre Tecnologia Vanguardista Vs Tecnologia Consolidada, Explicable, Eficiente, y confiable. 
+Se propone una Solución Vanguardista, Versátil, Eficiente, y Confiable. Una equilibrio entre Tecnologia Vanguardista Vs Tecnología Consolidada, Explicable, Eficiente, y confiable. 
 
-Al estar echo en docker-compose es reproducible y se puede desplegar tanto en Cloud como en On-Premise pemitiendo asi el procesamiento local de informacion y obteniendo gobernanza de datos.
+Al estar echo en docker-compose es reproducible y se puede desplegar tanto en Cloud como en On-Premise permitiendo asi el procesamiento local de información y obteniendo gobernanza de datos.
 
 
 ---
 
 
-## 📋Metodologia de Desarrollo 
+## 📋Metodología de Desarrollo 
 
 - CRISP-DM
 - SCRUM
@@ -131,9 +131,9 @@ Al estar echo en docker-compose es reproducible y se puede desplegar tanto en Cl
 --- 
 
 
-## 🎯Arqitecturas 
+## 🎯Arquitecturas 
 
-- Microservicios
+- Micro servicios
 - MultiAgent System
 - RAG System
 
@@ -141,7 +141,7 @@ Al estar echo en docker-compose es reproducible y se puede desplegar tanto en Cl
 --- 
 
 
-## 📋Tecnologias
+## 📋Tecnologías
 
 
 ### 📋Containers Ops
@@ -152,7 +152,7 @@ Al estar echo en docker-compose es reproducible y se puede desplegar tanto en Cl
         Loki
 
 
-### 📋Containers y Tecnologias Planteads
+### 📋Containers y Tecnologías Planteadas
 
         AI: LLMs, TTS, VLMs, Text-to-Image.
         DB: Qdrant, Neo4J, MongoDB, PostgreSQL, Redis       
@@ -180,13 +180,13 @@ Al estar echo en docker-compose es reproducible y se puede desplegar tanto en Cl
 ---
 
 
-## Detalles de la Solucion
+## Detalles de la Solución
 
 
 ---
 
 
-### 🎯 Introduccion de la Propuesta
+### 🎯 Introducción de la Propuesta
 
 La solución actúa en tres frentes simultáneos. Le entrega al paciente transparencia y comunicación proactiva durante toda su visita. Le entrega al personal operativo una herramienta de toma de decisiones que anticipa problemas antes de que ocurran. Y le entrega a la dirección indicadores en vivo para medir el desempeño real de cada clínica.
 
@@ -210,19 +210,19 @@ Todo esto opera sobre infraestructura desplegable tanto en la nube como en sitio
 
 - Doctores Especialistas (Requiere profundidad clínica, referencias cruzadas de estudios, y capacidad de análisis de imágenes médicas (VLM).)
 
-- Administrador del Sisrema (Supervisa el funcionamiento global, acceso de usuarios, rendimiento del sistema y toma decisiones estratégicas basadas en datos.)
+- Administrador del Sistema (Supervisa el funcionamiento global, acceso de usuarios, rendimiento del sistema y toma decisiones estratégicas basadas en datos.)
 
 
 ---
 
 
-## 🎯Medios de Interaccion e Interfaces GUIs
+## 🎯Medios de Interacción e Interfaces GUIs
 
-Todos los usuarios pueden interactuar con las plataformas de comunicacion (Chat WhatsApp/Telegram, Via Web (Open Web UI), y experiencia Interactiva (WebServer) ) 
+Todos los usuarios pueden interactuar con las plataformas de comunicación (Chat WhatsApp/Telegram, Via Web (Open Web UI), y experiencia Interactiva (WebServer) ) 
 
-Estos medios permiten la comunicacion con el sistema central el cual puede optimizar, priorizar las citas, diagnosticos preliminares, informes, etc.
+Estos medios permiten la comunicación con el sistema central el cual puede optimizar, priorizar las citas, diagnósticos preliminares, informes, etc.
 
-Las interacciones y capacidades de los agentes de IA mediente las interacciones los medios mencioandos, dependerra del perfil y los privilegios del usuario
+Las interacciones y capacidades de los agentes de IA mediante las interacciones los medios mencionados, dependería del perfil y los privilegios del usuario
 
 
 ---
@@ -230,7 +230,7 @@ Las interacciones y capacidades de los agentes de IA mediente las interacciones 
 
 ### 🎯 Diagrama
 
-![Img — Arquitectura de la solución](./Img.svg)
+![Img— Arquitectura de la solución](./Img.svg)
 
 
 ---
